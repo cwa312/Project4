@@ -1,5 +1,5 @@
 # Project 4
-*** This project is focused on the healthcare industry for identifying heart disease.**
+##This project is focused on the healthcare industry for identifying heart disease.
  * Our team evaluated the performance of various classification models based on recall results to determine the presence of heart disease.
  * Once we identify the best model, we can recommend it for detecting the presence of heart dise
  *** We use the following classification models:**
