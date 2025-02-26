@@ -1,8 +1,9 @@
 # Project 4
 ## This project is focused on the healthcare industry for identifying heart disease.
  * Our team evaluated the performance of various classification models based on recall results to determine the presence of heart disease.
- * Once we identify the best model, we can recommend it for detecting the presence of heart dise
- ***We use the following classification models:**
+ * Once we identify the best model, we can recommend it for detecting the presence of heart disease.
+
+ **We use the following classification models:**
  * K-Nearest Neighbors (KNN):it categorize observations and choose class labels for data that are more similar to eachother.
  * Support Vector Machine (SVM):is a supervised learning model that we can use for classification and regression analysis.it separates classes of datapoint into multidimensional space.
  * Random Forest:it is an ensemblelearning method used for both classification and regression tasks.and it is less pron to overfitting.
