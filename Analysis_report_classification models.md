@@ -23,12 +23,12 @@ Value for recall:
 
 * **K-Nearest Neighbors (KNN):88%**
 * **Support Vector Machine (SVM):95%**
-* **Random Forest:83%**
-* **Decision tree:**
-* **Logistic Regression:**
-* **Neural Network:90%**
+* **Random Forest:85%**
+* **Decision tree:76%**
+* **Logistic Regression:85%**
+* **Neural Network:85%**
 
 **Summary:**
 
-Based on the results on recall value, our team recommend using the support vector machine to help identify any presence of heart disease. The **SVM** identified the most heart disease. With recall value of 95%. This will help control the consequences of having heart disease and early intervention for treatment.
+Based on the results on recall value, our team recommend using the support vector machine to help identify any presence of heart disease. The **SVM** identified the most heart disease. With recall value of 95%. This will help control the consequences of having heart disease and it will help early intervention for treatment.
 

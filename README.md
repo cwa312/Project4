@@ -11,6 +11,7 @@
 
  * **LogisticRegression:** it is a simple yet powerful classification algorithm widely used in statistics and machine learning
  * **Neural Network:** they are designed to recognize patterns and make predictions based on data.
-    even if neural network is pron to overfitting on smaller dataset it has well done on identifying using heart disease.with recall value of 85%.
-    we have checked the performance of the metrics(recall value ) on both test and train data.there is no sign of overfitting.the recall value on test and train data was not big different.
+
+    * even if neural network is pron to overfitting on smaller dataset it has well done on identifying heart disease.with recall value of 85%.
+    * we have checked the performance of the metrics(recall value ) on both test and train data.there is no sign of overfitting.the recall value on test and train data was not significantly different.
 * we have used chart for visualize the recall value of the classification models.
